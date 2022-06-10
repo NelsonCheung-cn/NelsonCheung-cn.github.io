@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories | Nelson Cheung</title>
-    <link>http://nelson-cheung.cn/categories/</link>
-      <atom:link href="http://nelson-cheung.cn/categories/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://NelsonCheung-cn.github.io/categories/</link>
+      <atom:link href="http://NelsonCheung-cn.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://nelson-cheung.cn/media/icon_hu799c0c09f7869c0e9a0668013852475a_8539_512x512_fill_lanczos_center_3.png</url>
+      <url>http://NelsonCheung-cn.github.io/media/icon_hu799c0c09f7869c0e9a0668013852475a_8539_512x512_fill_lanczos_center_3.png</url>
       <title>Categories</title>
-      <link>http://nelson-cheung.cn/categories/</link>
+      <link>http://NelsonCheung-cn.github.io/categories/</link>
     </image>
     
   </channel>
